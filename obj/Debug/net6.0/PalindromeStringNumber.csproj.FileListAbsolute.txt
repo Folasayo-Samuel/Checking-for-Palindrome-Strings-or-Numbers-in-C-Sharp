@@ -1,0 +1,15 @@
+/home/saint/Desktop/PalindromeStringNumber/bin/Debug/net6.0/PalindromeStringNumber
+/home/saint/Desktop/PalindromeStringNumber/bin/Debug/net6.0/PalindromeStringNumber.deps.json
+/home/saint/Desktop/PalindromeStringNumber/bin/Debug/net6.0/PalindromeStringNumber.runtimeconfig.json
+/home/saint/Desktop/PalindromeStringNumber/bin/Debug/net6.0/PalindromeStringNumber.dll
+/home/saint/Desktop/PalindromeStringNumber/bin/Debug/net6.0/PalindromeStringNumber.pdb
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.csproj.AssemblyReference.cache
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.AssemblyInfoInputs.cache
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.AssemblyInfo.cs
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.dll
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/refint/PalindromeStringNumber.dll
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.pdb
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/PalindromeStringNumber.genruntimeconfig.cache
+/home/saint/Desktop/PalindromeStringNumber/obj/Debug/net6.0/ref/PalindromeStringNumber.dll
